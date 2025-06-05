@@ -1,7 +1,7 @@
 ---
 name: Blake Gording
-slack:blakegording@gmail.com
-Github:skiiguy
+slack: blakegording@gmail.com
+Github: skiiguy
 project: hack card
 ---
 #hack card 
